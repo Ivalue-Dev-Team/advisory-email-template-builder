@@ -1,0 +1,39 @@
+{
+  "name": "advisory-email-template-builder",
+  "version": "1.0.0",
+  "description": "A visual email template builder for threat intelligence advisories with WYSIWYG editing and batch email sending capabilities",
+  "author": "Chinmaya Kumar Biswal",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "email-template",
+    "threat-intelligence",
+    "advisory",
+    "nodemailer",
+    "template-builder",
+    "wysiwyg-editor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ivalue-Dev-Team"
+  },
+  "homepage": "https://github.com/Ivalue-Dev-Team",
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^17.3.1",
+    "express": "^5.1.0",
+    "nodemailer": "^7.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
