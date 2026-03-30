@@ -2,8 +2,8 @@
 
 A powerful visual email template builder for creating professional threat intelligence advisory emails with WYSIWYG editing capabilities and batch email distribution.
 
-**Developed by:** [iValue](https://www.ivaluetv.com) | [Sec360](https://sec360.ai)  
-**Author:** Chinmaya Kumar  
+**Developed by:** [iValue](https://www.ivaluegroup.com) | [Sec360](https://sec360.ai)  
+**Author:** Chinmaya Kumar Biswal  
 **Version:** 1.0.0  
 **License:** MIT
 
